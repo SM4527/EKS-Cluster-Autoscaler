@@ -1,0 +1,22 @@
+
+# https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf
+# https://github.com/kubernetes/autoscaler/releases
+
+image:
+  tag: v1.21.2
+  repository: k8s.gcr.io/autoscaling/cluster-autoscaler
+autoDiscovery:
+  clusterName: Default-EKS-Cluster
+  enabled: true
+awsRegion: us-east-1
+cloudProvider: aws
+rbac:
+  create: true
+
+# Enable after Prometheus pod has been deployed
+#serviceMonitor:
+#  enabled: true
+#  interval: 10s
+#  namespace: monitoring
+#  selector:
+#    release: prom
