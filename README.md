@@ -16,7 +16,7 @@ Deploy Cluster Autoscaler on an EKS cluster using Terraform and Helm.
 
 <p align="center">
 
-![image](https://user-images.githubusercontent.com/78129381/153615525-9aed5bf7-0445-498b-ae24-a87e6b2ea54a.png)
+![image](https://user-images.githubusercontent.com/78129381/153618633-a24c1e83-d958-4fb9-b8b6-04a0c32bb09d.png)
 
 </p>
 
