@@ -8,7 +8,7 @@
 
 # Project Title
 
-EKS-Cluster-Autoscaler
+EKS-Cluster-Autoscaler [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=EKS%20-%20Cluster%20-%20Autoscaler&url=https://github.com/SM4527/EKS-Cluster-Autoscaler)
 
 ## Description
 
